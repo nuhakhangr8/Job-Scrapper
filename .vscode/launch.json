@@ -1,0 +1,10 @@
+{
+    "configurations": [
+        {
+            "type": "chrome",
+            "name": "https://localhost:3001/api/v1/indeed",
+            "request": "launch",
+            "url": "https://localhost:3001/api/v1/indeed"
+        }
+    ]
+}
